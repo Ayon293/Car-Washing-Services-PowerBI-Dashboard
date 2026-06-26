@@ -144,7 +144,7 @@ The dashboard includes several KPI cards and charts to present the overall car w
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/Car-Dashboard.png)
+![Dashboard Preview](./images/Car-Dashboard.png)
 
 ---
 
